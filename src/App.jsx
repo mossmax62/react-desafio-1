@@ -18,10 +18,10 @@ function App() {
             <MyCard img='https://via.placeholder.com/50' title={'Mike'} description={'Inquieto'} color={'primary'} text={'Beagle'} />
           </Col>
           <Col>
-            <MyCard img='https://via.placeholder.com/50' title={'Scooby'} description={'Regalon'} color={'primary'} text={'Beagle'} />
+            <MyCard img='https://via.placeholder.com/50' title={'Scooby'} description={'Regalon'} color={'success'} text={'Gran danés'} />
           </Col>
           <Col>
-            <MyCard img='https://via.placeholder.com/50' title={'Chorizo'} description={'Inteligente'} color={'primary'} text={'Beagle'} />
+            <MyCard img='https://via.placeholder.com/50' title={'Chorizo'} description={'Inteligente'} color={'warning'} text={'Pastor Ingles'} />
           </Col>
         </Row>
       </Container>
