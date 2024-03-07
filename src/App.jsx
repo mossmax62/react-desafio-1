@@ -11,17 +11,17 @@ function App() {
   return (
     <>
 
-      <Header />
+      <Header/>
       <Container>
         <Row>
           <Col>
             <MyCard img='https://via.placeholder.com/50' title={'Mike'} description={'Inquieto'} color={'primary'} text={'Beagle'} />
           </Col>
           <Col>
-            <MyCard img='https://via.placeholder.com/50' title={'Mike'} description={'Regalon'} color={'primary'} text={'Beagle'} />
+            <MyCard img='https://via.placeholder.com/50' title={'Scooby'} description={'Regalon'} color={'primary'} text={'Beagle'} />
           </Col>
           <Col>
-            <MyCard img='https://via.placeholder.com/50' title={'Mike'} description={'Inteligente'} color={'primary'} text={'Beagle'} />
+            <MyCard img='https://via.placeholder.com/50' title={'Chorizo'} description={'Inteligente'} color={'primary'} text={'Beagle'} />
           </Col>
         </Row>
       </Container>
