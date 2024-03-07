@@ -1,0 +1,8 @@
+.titulo{
+    color: greenyellow;
+}
+
+.noDisponible{
+    color: red;
+    text-decoration: line-through;
+}
